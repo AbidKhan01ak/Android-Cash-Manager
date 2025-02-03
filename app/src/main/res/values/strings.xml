@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Cash Manager</string>
+
+    <string-array name="transaction_categories">
+        <item>Food</item>
+        <item>Travel</item>
+        <item>Shopping</item>
+        <item>Rent</item>
+        <item>Miscellaneous</item>
+    </string-array>
+
+</resources>
